@@ -72,8 +72,10 @@ Katie,Shirou,21,CS
 }
 
 
-**babel.config.js**
+<details>
+<summary><b>babel.config.js</b> (click to expand)</summary>
 
+```javascript
 module.exports = {
   presets: [
     [
@@ -86,6 +88,7 @@ module.exports = {
     ],
   ],
 };
+
 
 
 .eslintrc.js
