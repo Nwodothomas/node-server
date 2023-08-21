@@ -73,9 +73,8 @@ Katie,Shirou,21,CS
 
 
 <details>
-<summary><b>babel.config.js</b> (click to expand)</summary>
-
-```javascript
+  <summary><b>babel.config.js</b> (click to expand)</summary>
+  <pre><code>
 module.exports = {
   presets: [
     [
@@ -88,6 +87,8 @@ module.exports = {
     ],
   ],
 };
+  </code></pre>
+</details>
 
 
 
