@@ -1,7 +1,7 @@
 # HOW TO BUILD A SIMPLE SERVER WITH NODE.JS
 
 ## Resources:
-    - [Node JS getting started](<https://nodejs.org/en/docs/guides/getting-started-guide>)
+    - [Node JS getting started](https://nodejs.org/en/docs/guides/getting-started-guide)
     - [Process API doc](<https://node.readthedocs.io/en/latest/api/process/>)
     - [Child process](<https://nodejs.org/api/child_process.html>)
     - [Express getting started](<https://expressjs.com/en/starter/installing.html>)
